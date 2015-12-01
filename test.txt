@@ -1,0 +1,4 @@
+11hello 
+new line in file
+and again!
+after commit
